@@ -57,3 +57,8 @@ form {
     text-align: center;
     border-top: 2px solid orange;
 }
+.Button {
+    font-size: 30px;
+    background-color: rgb(224, 224, 131);
+
+}
