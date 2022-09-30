@@ -1,0 +1,59 @@
+body {
+    background-color: #ddd;
+}
+
+#beachwalk {
+    height: 200px;
+    width: 100%
+
+
+}
+main {
+    margin: 10px;
+    padding: 10px;
+
+}
+.aboutme {
+    border-top: 2px solid orange;
+    background-color: lightskyblue;
+    display: flex;
+    padding: 25px;
+    text-align: center;
+    justify-content: space-between;
+    margin-bottom: 25px;
+}
+.aboutme p {
+    background-color: lightseagreen;
+    padding: 10px;
+   
+}
+.jess {
+    background-color: lightseagreen;
+    border-style: solid; 
+}
+.family {
+    background-color: lightseagreen;
+    border-style: solid; 
+}
+.interests {
+    background-color: lightseagreen;
+    border-style: solid; 
+}
+.aboutmebuttons {
+    margin-bottom: 25px;
+}
+
+.educationandskills {
+    border-top: 2px solid orange;
+    background-color: rgb(203, 156, 156);
+    padding: 10px;
+    margin-bottom: 25px;
+}
+.careergoals {
+    border-top: 2px solid orange;
+    background-color: lightgreen;
+}
+form {
+    text-align: center;
+    border-top: 2px solid orange;
+}
